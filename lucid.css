@@ -1809,7 +1809,7 @@ body {
     --top-bar-button-position: off;
     --top-bar-title-position: off;
     --subtle-top-bar-title: off;
-    --custom-window-controls: on;
+    --custom-window-controls: off;
     --window-control-size: 14px;
     --custom-dms-icon: off;
     --custom-dms-background: off;
